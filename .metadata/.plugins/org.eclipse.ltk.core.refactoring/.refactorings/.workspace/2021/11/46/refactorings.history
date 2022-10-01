@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename Java project &apos;com.walton&apos; to &apos;NonconstructibleValue&apos;&#x0D;&#x0A;- Original element: &apos;com.walton&apos;&#x0D;&#x0A;- Renamed element: &apos;com.walton&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;com.walton&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=com.walton" name="NonconstructibleValue" references="true" stamp="1636429857164" version="1.0"/>
-</session>
