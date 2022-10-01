@@ -1,0 +1,11 @@
+
+F
+java:S1220""Move this file to a named package.HÆRMINORZ
+CODE_SMELL
+|	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¯∑ΩH≠RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Îﬁ“ÂHØRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ùñ˝∫H∞RMAJORZ
+CODE_SMELL
