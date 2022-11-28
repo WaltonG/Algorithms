@@ -28,7 +28,7 @@ public class FindTheTownJudgeApplication {
         }
 
     public static void main(String[] args) {
-        int[][] input = new int[][] { { 5, 5 }, { 2, 2 } };
+        int[][] input = new int[][] { { 4, 5 }, { 2, 2 } };
         System.out.println(reverseOnlyLetters(input));
     }
 
